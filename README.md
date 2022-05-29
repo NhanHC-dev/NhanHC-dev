@@ -65,15 +65,17 @@
 </p>
 👉 Frameworks
 <p align="left">
-  <span><img src="https://img.shields.io/badge/Ruby%20on%20Rails-282C34?logo=ruby-on-rails&logoColor=CC0000" alt="Ruby on Rails logo" title="Ruby on Rails" height="25" /></span>
+ <span><img src="https://img.shields.io/badge/SwiftUIkit-282C34?logo=swift&logoColor=258FFA" alt="Swift logo" title="Swift" height="25" /></span>
 &nbsp;
-  <span><img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" /></span>
+ <span><img src="https://img.shields.io/badge/Ruby%20on%20Rails-282C34?logo=ruby-on-rails&logoColor=CC0000" alt="Ruby on Rails logo" title="Ruby on Rails" height="25" /></span>
 &nbsp;
-  <span><img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=092E20" alt="Django logo" title="Django" height="25" /></span>
+ <span><img src="https://img.shields.io/badge/Flutter-282C34?logo=flutter&logoColor=02569B" alt="Flutter logo" title="Flutter" height="25" /></span>
 &nbsp;
-  <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+ <span><img src="https://img.shields.io/badge/Django-282C34?logo=django&logoColor=092E20" alt="Django logo" title="Django" height="25" /></span>
 &nbsp;
-  <span><img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=00F200" alt="Node.js logo" title="Node.js" height="25" /></span>
+ <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
+&nbsp;
+ <span><img src="https://img.shields.io/badge/Ionic-282C34?logo=ionic&logoColor=3880FF" alt="Ionic logo" title="Ionic" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" /></span>
 &nbsp;
@@ -87,7 +89,9 @@
 </p>
 👉 Libraries
 <p align="left">
- <span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
+<span><img src="https://img.shields.io/badge/iOS-282C34?logo=apple&logoColor=000000" alt="Apple logo" title="Apple" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Sass-282C34?logo=sass&logoColor=CC6699" alt="SASS logo" title="SASS" height="25" /></span>
 &nbsp;
@@ -103,7 +107,8 @@
 <span><img src="https://img.shields.io/badge/Kubernetes-282C34?logo=kubernetes&logoColor=326CE5" alt="Kubernetes logo" title="Kubernetes" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Ubuntu-282C34?logo=ubuntu&logoColor=E95420" alt="Ubuntu logo" title="Ubuntu" height="25" /></span>
-<span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Linux-282C34?logo=linux&logoColor=FCC624" alt="Linux logo" title="Linux" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=F24E1E" alt="Figma logo" title="Figma" height="25" /></span>
 &nbsp;
