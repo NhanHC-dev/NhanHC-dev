@@ -61,7 +61,9 @@
 &nbsp;
   <span><img src="https://img.shields.io/badge/Ruby-282C34?logo=ruby&logoColor=CC342D" alt="Ruby logo" title="Ruby" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="Ruby logo" title="Ruby" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=coffeescript&logoColor=EF2D5E" alt="Java logo" title="Java" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="C" height="25" /></span>
 &nbsp;
 </p>
 👉 Frameworks
