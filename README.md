@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm NhanHC </h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">A software engineer passionate development from Vietnam </h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=NhanHC-dev" alt="tiennhm" /> <img src="https://badges.pufler.dev/repos/NhanHC-dev" alt="tiennhm" /> </p>
 
 - ✍ I'm a student of: [FPT University Da Nang](https://dnuni.fpt.edu.vn/) (FUDN).
 - ✍ I'm working in: [FPT Software Da Nang](https://www.fpt-software.com/our-campus/danang/) (FSDN).
